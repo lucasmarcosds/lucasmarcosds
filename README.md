@@ -17,7 +17,7 @@
 
 - 🛠️ Let's go working together?
 <hr>
-<a align="left">
+<a>
   <img src="https://github-readme-stats.vercel.app/api?username=lucasmarcosds&show_icons=true&theme=discord_old_blurple&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmarcosds&layout=compact&theme=discord_old_blurple&hide_border=true" />
 </a>
