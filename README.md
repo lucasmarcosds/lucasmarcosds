@@ -22,6 +22,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=lucasmarcosds&show_icons=true&theme=discord_old_blurple&hide_border=true" /></td>
   <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmarcosds&layout=compact&theme=discord_old_blurple&hide_border=true" /></td>
  </a></tr>
-</table>
+</table><br>
   
   > "Let the future tell the truth, and evaluate each one according to his work and accomplishments. The present is theirs; the future, for which I have really worked, is mine." - Nikola Tesla
