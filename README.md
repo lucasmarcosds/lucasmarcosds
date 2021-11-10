@@ -1,5 +1,5 @@
   <h1  align="center"> Hey what's up my name is Lucas </h1>
-<h3 align="center"> I'am Full Stack Developer and I ❤️ Technology <h3>
+<h3 align="center"> I'am Full Stack Developer and I ❤️ Technology </h3>
 
 - 🇧🇷 Made in Brazil
 
