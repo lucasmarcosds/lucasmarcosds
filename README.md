@@ -3,8 +3,6 @@
 
 - 🇧🇷 Made in Brazil
 
-- 🚀 Improving Nodejs, ReactJs, Docker
-
 - 💬 Call me on *lucasmarcosdas@gmail.com*
 
 - 💻 Languages and Tools: 
